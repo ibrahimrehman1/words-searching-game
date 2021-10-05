@@ -6,6 +6,6 @@ exit button as well to end the game.
 
 ## Sample Images
 
-![words search game start]("./words-search-pic1.PNG")
-![words search game word found]("./words-search-pic2.PNG")
-![words search game end]("./words-search-pic3.PNG")
+![words search game start](words-search-pic1.PNG)
+![words search game word found](words-search-pic2.PNG)
+![words search game end](words-search-pic3.PNG)
